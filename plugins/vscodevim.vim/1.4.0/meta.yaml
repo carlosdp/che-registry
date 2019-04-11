@@ -1,0 +1,12 @@
+id: vscodevim.vim
+version: 1.4.0
+type: VS Code extension
+name: VsVim
+title: VsVim
+description: Vim bindings
+icon: https://raw.githubusercontent.com/VSCodeVim/Vim/master/images/icon.png
+url: https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscodevim/vsextensions/vim/1.4.0/vspackage
+publisher: vscodevim
+repository: https://github.com/Microsoft/vscode
+category: Language
+firstPublicationDate: "2019-04-10"
