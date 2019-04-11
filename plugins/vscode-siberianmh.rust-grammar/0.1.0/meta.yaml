@@ -1,0 +1,12 @@
+id: vscode-siberianmh.rust-grammar
+version: 0.1.0
+type: VS Code extension
+name: Rust Grammar
+title: Rust Grammar
+description: Rust Grammar
+icon: https://siberianmh.gallerycdn.vsassets.io/extensions/siberianmh/rust-grammar/0.1.0/1544889251459/Microsoft.VisualStudio.Services.Icons.Default
+url: https://marketplace.visualstudio.com/_apis/public/gallery/publishers/siberianmh/vsextensions/rust-grammar/0.1.0/vspackage
+publisher: Siberian Media Holding
+repository: https://github.com/Microsoft/vscode
+category: Language
+firstPublicationDate: "2019-04-10"
